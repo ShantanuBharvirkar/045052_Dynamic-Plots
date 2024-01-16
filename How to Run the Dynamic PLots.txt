@@ -1,0 +1,5 @@
+How to Run the Dynamic Plot Code?
+
+1. Download the ipynb file and upload the same in google colab. 
+2. Run the file and when asked to upload the file, upload the excel file named "Dataset of Python Dynamic Plotting".
+3. Dynamic Plots will be visible post the upload.
